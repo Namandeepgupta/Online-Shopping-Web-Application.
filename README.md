@@ -2,6 +2,7 @@
 This project is a full-stack dynamic e-commerce platform that allows customers to browse products, manage carts, and place orders, while administrators can manage products and track orders. The application is designed with a responsive frontend and a structured backend connected to a MySQL database.
 
 ✅ Project Features
+
 🔹 Customer Panel
 User Registration and Login
 
@@ -12,6 +13,7 @@ Add/Remove Products in Cart
 Place and Track Orders
 
 View Order History
+
 
 🔹 Admin Panel
 Admin Login
